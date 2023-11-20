@@ -1,11 +1,11 @@
 {
     "name": "out-of-band-api-discovery",
-    "version": "1.0.1",
-    "description": "Logging Server which sends traffic out to be analyzed for APIs",
+    "version": "2.0.0",
+    "description": "Fork of Logging Server which sends traffic out to be analyzed for APIs. Original author Peter Scheffler",
     "author": {
-        "name": "Peter Scheffler",
-        "email": "scheff@f5.com",
-        "url": "https://github.com/pmscheffler/sidebandAPIDiscovery"
+        "name": "Chas Lesley",
+        "email": "chas@f5.com",
+        "url": "https://github.com/lesleycw/apilogger"
     },
     "main": "apilogger.js",
     "scripts": {
